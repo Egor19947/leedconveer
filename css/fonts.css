@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'inter-light';
+    src: url(../fonts/Inter_Light.woff2) format('woff2');
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'inter-regular';
+    src: url(../fonts/Inter_Regular.woff2) format('woff2');
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'inter-medium';
+    src: url(../fonts/Inter_Medium.woff2) format('woff2');
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'inter-bold';
+    src: url(../fonts/Inter_Bold.woff2) format('woff2');
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(../fonts/Montserrat_Bold.woff2) format('woff2');
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+}
